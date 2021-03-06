@@ -17,7 +17,7 @@ git clone https://github.com/GETOfinance/getofinance-sdk.git
 Move into the sushiswap-sdk working directory
 
 ```sh
-cd sushiswap-sdk/
+cd getofinance-sdk/
 ```
 
 Install dependencies
