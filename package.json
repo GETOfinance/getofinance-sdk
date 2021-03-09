@@ -1,5 +1,5 @@
 {
-  "name": "@getofinance/sdk",
+  "name": "@sushiswap/sdk",
   "license": "MIT",
   "version": "3.0.2",
   "description": "🛠 An SDK for building applications on top of Sushiswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/GETOfinance/getofinance-sdk",
+  "repository": "https://github.com/GETOfinance/sushiswap-sdk",
   "keywords": [
     "uniswap",
     "sushiswap",
